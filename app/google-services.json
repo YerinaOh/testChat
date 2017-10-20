@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25839189412",
+    "firebase_url": "https://cjchat-44f2c.firebaseio.com",
+    "project_id": "cjchat-44f2c",
+    "storage_bucket": "cjchat-44f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25839189412:android:39c640b5919b0e21",
+        "android_client_info": {
+          "package_name": "com.testproject.yerinaoh.cjchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25839189412-shv4jcmidmlo0b8218pn9iia6ku6ooil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhZtQHVrAuOUUvuzoJGLR2uxLVaq6FPx8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

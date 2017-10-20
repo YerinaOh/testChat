@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.testproject.yerinaoh.cjchat.LoginActivity">
+
+    <com.facebook.login.widget.LoginButton
+    android:id="@+id/login_button"
+    android:layout_width="300dp"
+    android:layout_height="50dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginBottom="30dp"
+    android:layout_marginTop="150dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp" />
+
+    <Button
+        android:id="@+id/shadowButton"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/login_button"
+        android:text="비회원으로 로그인" />
+</LinearLayout>
